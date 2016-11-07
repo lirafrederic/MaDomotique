@@ -7,4 +7,6 @@ Le fichier script_time_ping.lua sert a detecter une personne dans la maison grac
 
 Le fichier script_device_thermostat_salon.lua permet de réguler la température d'une maison
 
+Le fichier script_time_motion.lua sert a compter le temps de presence et le remettre a zéro.
+
 
